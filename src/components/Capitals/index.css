@@ -1,0 +1,23 @@
+/* Write your CSS here */
+*{
+margin:0px;
+}
+.bg-container{
+background-color: #93c5fd;
+height:100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.box{
+display: flex;
+flex-direction: column;
+border: 1px solid white;
+border-radius: 15px;
+background-color: white;
+padding: 5%;
+}
+.options{
+margin-top: 15px;
+margin-bottom: 15px;
+}
